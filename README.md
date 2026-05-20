@@ -150,6 +150,5 @@ This project helps in understanding:
 ## Author
 
 Khawar Ali
-BS Computer Science Student
 
 ---
