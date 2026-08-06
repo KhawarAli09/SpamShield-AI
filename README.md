@@ -4,7 +4,12 @@
 
 ## Intelligent Spam Email Detection System Using Machine Learning
 
+## 🌐 Live Demo
+
+Try it out here: [spamshield-ai-jj5fcibhbfsjwdsnh5ttry.streamlit.app](https://spamshield-ai-jj5fcibhbfsjwdsnh5ttry.streamlit.app/)
+
 ---
+
 
 ## Overview
 
